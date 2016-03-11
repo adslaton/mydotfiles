@@ -26,7 +26,7 @@ to do anything you don't want it to do.
 It is important to point out that this needs to be in `~/.mydotfiles` to work
 properly.
 
-    $ git clone git://github.com/jamsyoung/mydotfiles.git ~/.mydotfiles
+    $ git clone git://github.com/adslaton/mydotfiles.git ~/.mydotfiles
     $ cd ~/.mydotfiles
     $ ./install.sh
     $ git config --global user.name "Your Name"
@@ -35,12 +35,11 @@ properly.
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jamsyoung/mydotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/adslaton/mydotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
 
-
-[0]: https://github.com/jamsyoung/mydotfiles/blob/master/install.sh
+[0]: https://github.com/adslaton/mydotfiles/blob/master/install.sh
 [1]: https://github.com/necolas/dotfiles
 [go]: http://golang.org/
 [nvm]: https://github.com/creationix/nvm
